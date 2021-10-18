@@ -938,7 +938,6 @@ void count_u(unsigned int n[], unsigned int u[])
 }
 void barret_arr(unsigned int x[], unsigned int n[], unsigned int res[], unsigned int u[])
 {
-	
 	//unsigned int u[GLOBAL_SIZE]; //size n=k, size x=2k
 	unsigned int q[GLOBAL_SIZE]; //n is b1, x is a1
 	unsigned int x1[GLOBAL_SIZE];
@@ -956,6 +955,9 @@ void barret_arr(unsigned int x[], unsigned int n[], unsigned int res[], unsigned
 	//count_u(n, u);
 	
 	int k = size_arr(n);
+	//cout << endl << "this is u";
+	//show_arr(u);
+	//cout << "this is k " << k;
 	kill_last_digits(x1, k - 1);
 	assign(q, x1);
 	mult_arr(q, u, q);
@@ -976,8 +978,6 @@ void barret_arr(unsigned int x[], unsigned int n[], unsigned int res[], unsigned
 	//show_arr(r);
 	while (compare(r, n) == 1)
 	{
-		//cout <<endl <<"this is r";
-		//show_arr(r);
 		diff_arr(r, n, r);
 		//cout << endl << "this is r";
 	}
@@ -1255,15 +1255,16 @@ int main()
 	div_arr2(mult, b1, div3);
 	cout << "this is div3 ";
 	show_arr(div3);
-	unsigned int u[GLOBAL_SIZE];
-	zero_arr(u);
-	count_u(b1, u);
-	unsigned int barret[GLOBAL_SIZE];
-	zero_arr(barret);
-	barret_arr(a1, b1, barret,u);
+	
+	//barret_arr(a1, b1, barret,u);
 	string mod;
 	getline(file, mod);
 	unsigned int* mod1 = to_arr(mod);
+	unsigned int u[GLOBAL_SIZE];
+	zero_arr(u);
+	count_u(mod1, u);
+	unsigned int barret[GLOBAL_SIZE];
+	zero_arr(barret);
 	unsigned int barr_sum[GLOBAL_SIZE];
 	zero_arr(barr_sum);
 	barret_sum_arr(a1, b1,mod1, u,barr_sum);
@@ -1279,29 +1280,18 @@ int main()
 	barret_mulN_arr(a1, 0xffff, mod1,u, barr_mulN);
 	cout << endl << "this is mulN bar ";
 	show_arr(barr_mulN);
-	/*unsigned int barr_mult[GLOBAL_SIZE];
+	unsigned int barr_mult[GLOBAL_SIZE];
 	zero_arr(barr_mult);
 	barret_mult_arr(a1, b1, mod1,u, barr_mult);
 	cout << endl << "this is mult bar ";
-	show_arr(barr_mult);*/
-	/*nsigned int barr_mult1[GLOBAL_SIZE];
+	show_arr(barr_mult);
+	/*unsigned int barr_mult1[GLOBAL_SIZE];
 	zero_arr(barr_mult1);
-	barret_mult_arr1(a1, b1, mod1, barr_mult1);
+	barret_mult_arr1(a1, b1, mod1,u, barr_mult1);
 	cout << endl << "this is mult bar1 ";
 	show_arr(barr_mult1);*/
 	
-	/*unsigned int* div = new unsigned int[GLOBAL_SIZE];
-	div = div_arr(a1, b1);
-	cout << endl << "q is " << hex << div[0];
-	div[0] = 0;
-	cout << endl << "R is ";
-	show_arr(div);
 	
-	//unsigned int* u = count_u(b1);
-	//show_arr(u);
-	//unsigned int* trying = pow_arr(two, a1);
-	//show_arr(trying);
-	*/
 	return 0;
 
 }
