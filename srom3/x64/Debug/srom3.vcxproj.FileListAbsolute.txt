@@ -1,0 +1,2 @@
+C:\Users\Polina\source\repos\srom3\x64\Debug\ ll.exe
+C:\Users\Polina\source\repos\srom3\x64\Debug\ ll.pdb
