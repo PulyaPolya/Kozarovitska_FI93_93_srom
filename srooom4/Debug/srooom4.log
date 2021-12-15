@@ -1,0 +1,23 @@
+﻿  Source.cpp
+C:\Users\Polina\source\repos\srooom4\Source.cpp(9,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srooom4\Source.cpp(191,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Polina\source\repos\srooom4\Source.cpp(201,4): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Polina\source\repos\srooom4\Source.cpp(214,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Polina\source\repos\srooom4\Source.cpp(224,4): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Polina\source\repos\srooom4\Source.cpp(238,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Polina\source\repos\srooom4\Source.cpp(248,4): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Polina\source\repos\srooom4\Source.cpp(259,6): warning C4101: 'sz': unreferenced local variable
+C:\Users\Polina\source\repos\srooom4\Source.cpp(345,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Polina\source\repos\srooom4\Source.cpp(424,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Polina\source\repos\srooom4\Source.cpp(739,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Polina\source\repos\srooom4\Source.cpp(793,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Polina\source\repos\srooom4\Source.cpp(858,13): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Polina\source\repos\srooom4\Source.cpp(860,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srooom4\Source.cpp(915,13): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Polina\source\repos\srooom4\Source.cpp(917,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srooom4\Source.cpp(973,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Polina\source\repos\srooom4\Source.cpp(981,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Polina\source\repos\srooom4\Source.cpp(1338,15): warning C4101: 'cero': unreferenced local variable
+C:\Users\Polina\source\repos\srooom4\Source.cpp(1729,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Polina\source\repos\srooom4\Source.cpp(113): warning C4715: 'getHexCharacter': not all control paths return a value
+  srooom4.vcxproj -> C:\Users\Polina\source\repos\srooom4\Debug\srooom4.exe
