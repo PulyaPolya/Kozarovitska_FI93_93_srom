@@ -1,0 +1,22 @@
+﻿  srom2.cpp
+C:\Users\Polina\source\repos\srom2\srom2.cpp(7,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(88,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Polina\source\repos\srom2\srom2.cpp(159,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Polina\source\repos\srom2\srom2.cpp(168,23): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Polina\source\repos\srom2\srom2.cpp(181,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Polina\source\repos\srom2\srom2.cpp(190,23): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Polina\source\repos\srom2\srom2.cpp(204,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Polina\source\repos\srom2\srom2.cpp(213,23): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Polina\source\repos\srom2\srom2.cpp(224,6): warning C4101: 'sz': unreferenced local variable
+C:\Users\Polina\source\repos\srom2\srom2.cpp(304,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Polina\source\repos\srom2\srom2.cpp(389,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Polina\source\repos\srom2\srom2.cpp(793,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Polina\source\repos\srom2\srom2.cpp(852,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Polina\source\repos\srom2\srom2.cpp(922,13): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(924,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(979,13): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(981,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(1089,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Polina\source\repos\srom2\srom2.cpp(1097,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Polina\source\repos\srom2\srom2.cpp(76): warning C4715: 'getHexCharacter': not all control paths return a value
+  srom2.vcxproj -> C:\Users\Polina\source\repos\srom2\Debug\srom2.exe

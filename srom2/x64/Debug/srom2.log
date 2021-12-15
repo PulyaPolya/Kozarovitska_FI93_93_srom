@@ -1,0 +1,47 @@
+﻿  srom2.cpp
+C:\Users\Polina\source\repos\srom2\srom2.cpp(8,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(28,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(104,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(169,23): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Polina\source\repos\srom2\srom2.cpp(191,23): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Polina\source\repos\srom2\srom2.cpp(214,23): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Polina\source\repos\srom2\srom2.cpp(237,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(246,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(225,6): warning C4101: 'sz': unreferenced local variable
+C:\Users\Polina\source\repos\srom2\srom2.cpp(255,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(266,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(282,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(308,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(330,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(331,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(332,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(393,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(415,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(416,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(417,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(657,36): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(793,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(796,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(818,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(852,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(855,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(877,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(906,33): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(927,13): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(963,33): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(984,13): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(986,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(1094,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Polina\source\repos\srom2\srom2.cpp(1105,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(1127,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(1128,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(1129,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(1498,36): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(1527,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(1528,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(1535,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(1536,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(1537,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Polina\source\repos\srom2\srom2.cpp(1647,15): warning C4101: 'div2': unreferenced local variable
+C:\Users\Polina\source\repos\srom2\srom2.cpp(77): warning C4715: 'getHexCharacter': not all control paths return a value
+  srom2.vcxproj -> C:\Users\Polina\source\repos\srom2\x64\Debug\srom2.exe
